@@ -1,0 +1,22 @@
+{
+  "name": "rollup-development-setup",
+  "version": "1.0.0",
+  "description": "Rollup development setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/rollup-development-setup.git"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/rollup-development-setup/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/rollup-development-setup#readme"
+}
